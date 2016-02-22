@@ -1,4 +1,4 @@
-# [GECCO](https://github.com/xtuhcy/gecco)(易用的轻量化的网络爬虫)
+# [GECCO](https://github.com/Xstarfct/gecco)(易用的轻量化的网络爬虫)
 ##主要特征
 	1、简单易用，使用jquery的css selector风格抽取元素
 	2、支持页面中的异步ajax请求
